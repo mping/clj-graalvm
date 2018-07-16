@@ -1,5 +1,4 @@
-# comment
-# (note: the <tab> in the command line is necessary for make to work) 
+# TODO: use native-image -jar option, apparently it can take a jarfile with an entrypoint
 
 APP=graalvm
 BINARY=graalvm.core
